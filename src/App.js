@@ -2,8 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import { useEffect, useState } from 'react';
 
-const client_id ='02056911242d494da531c50dbe0f27e7';
-const client_secret = 'fabed1ee281f4d63b29e85da79ca14c4';
+const client_id ='';
+const client_secret = '';
 
 function App() {
 
